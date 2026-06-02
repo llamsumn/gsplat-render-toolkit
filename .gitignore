@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+gsplat_env/
+
+# Render outputs (keep only examples, not full runs)
+output/
+gsplat_renders/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+nohup.out
+
+# Large files not tracked by LFS
+*.ply
+!examples/**/*.ply

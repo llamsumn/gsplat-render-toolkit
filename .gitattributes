@@ -1,0 +1,2 @@
+# Track large PLY files with Git LFS
+*.ply filter=lfs diff=lfs merge=lfs -text

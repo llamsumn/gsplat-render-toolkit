@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/mnt/fast0/clll20/data/nerf_synthetic/lego', model_path='/mnt/fast0/clll20/output/lego', images='images', depths='', resolution=-1, white_background=True, train_test_exp=False, data_device='cuda', eval=True)
